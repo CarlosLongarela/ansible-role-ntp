@@ -13,7 +13,9 @@
     force: yes
 
 - name: Instalamos NTP.
-  apt: name=ntp state=installed
+  apt:
+    name: ntp
+    state: installed
 
 - name: Comprobamos que NTP se está ejecutando y activado
   service:
