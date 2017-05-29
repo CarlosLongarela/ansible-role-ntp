@@ -2,6 +2,8 @@ Ansible Role: Ntp
 =========
 
 [![Build Status](https://travis-ci.org/CarlosLongarela/ansible-role-ntp.svg?branch=master)](https://travis-ci.org/CarlosLongarela/ansible-role-ntp)
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/CarlosLongarela/ansible-role-ntp.svg)](http://isitmaintained.com/project/CarlosLongarela/ansible-role-ntp "Percentage of issues still open")
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/CarlosLongarela/ansible-role-ntp.svg)](http://isitmaintained.com/project/CarlosLongarela/ansible-role-ntp "Average time to resolve an issue")
 
 Ntp install and basic configuration. This role is util for a empty xenial ubuntu basic configuration.
 
