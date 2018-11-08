@@ -15,7 +15,7 @@
 - name: Instalamos NTP.
   apt:
     name: ntp
-    state: installed
+    state: present
 
 - name: Comprobamos que NTP se está ejecutando y activado
   service:
